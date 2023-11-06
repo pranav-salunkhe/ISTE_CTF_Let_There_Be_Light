@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+}
+#download-button {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  transition: 0.5s;
+}
